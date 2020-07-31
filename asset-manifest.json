@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/dafer154/static/css/main.770a2fae.chunk.css",
-    "main.js": "/dafer154/static/js/main.598f69a5.chunk.js",
-    "main.js.map": "/dafer154/static/js/main.598f69a5.chunk.js.map",
+    "main.js": "/dafer154/static/js/main.9c8f97d7.chunk.js",
+    "main.js.map": "/dafer154/static/js/main.9c8f97d7.chunk.js.map",
     "runtime-main.js": "/dafer154/static/js/runtime-main.4d3a4734.js",
     "runtime-main.js.map": "/dafer154/static/js/runtime-main.4d3a4734.js.map",
     "static/css/2.f524894f.chunk.css": "/dafer154/static/css/2.f524894f.chunk.css",
-    "static/js/2.efdb6ec4.chunk.js": "/dafer154/static/js/2.efdb6ec4.chunk.js",
-    "static/js/2.efdb6ec4.chunk.js.map": "/dafer154/static/js/2.efdb6ec4.chunk.js.map",
+    "static/js/2.d171c6d7.chunk.js": "/dafer154/static/js/2.d171c6d7.chunk.js",
+    "static/js/2.d171c6d7.chunk.js.map": "/dafer154/static/js/2.d171c6d7.chunk.js.map",
     "index.html": "/dafer154/index.html",
-    "precache-manifest.90f503d5a75fdb015c7f349b9d69d9b9.js": "/dafer154/precache-manifest.90f503d5a75fdb015c7f349b9d69d9b9.js",
+    "precache-manifest.5f1928cf35ab61fe2c33cdab123baedb.js": "/dafer154/precache-manifest.5f1928cf35ab61fe2c33cdab123baedb.js",
     "service-worker.js": "/dafer154/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/dafer154/static/css/2.f524894f.chunk.css.map",
     "static/css/main.770a2fae.chunk.css.map": "/dafer154/static/css/main.770a2fae.chunk.css.map",
-    "static/js/2.efdb6ec4.chunk.js.LICENSE.txt": "/dafer154/static/js/2.efdb6ec4.chunk.js.LICENSE.txt",
-    "static/media/CV_David_Zuluaga.pdf": "/dafer154/static/media/CV_David_Zuluaga.02db4d9e.pdf",
+    "static/js/2.d171c6d7.chunk.js.LICENSE.txt": "/dafer154/static/js/2.d171c6d7.chunk.js.LICENSE.txt",
     "static/media/cier-sur.png": "/dafer154/static/media/cier-sur.2ca364f7.png",
     "static/media/covid-19.PNG": "/dafer154/static/media/covid-19.d83769ee.PNG",
     "static/media/davidZ.JPG": "/dafer154/static/media/davidZ.01eab6d3.JPG",
@@ -27,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.4d3a4734.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.efdb6ec4.chunk.js",
+    "static/js/2.d171c6d7.chunk.js",
     "static/css/main.770a2fae.chunk.css",
-    "static/js/main.598f69a5.chunk.js"
+    "static/js/main.9c8f97d7.chunk.js"
   ]
 }
