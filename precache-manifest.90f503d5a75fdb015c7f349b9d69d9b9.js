@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "364fde828f1689dcb75b895d3ed60448",
+    "revision": "1da922b1bf7c75bb11d0cc0e46f32b53",
     "url": "/dafer154/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dafer154/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "b23e081b63521c97c9e2",
+    "revision": "85b57545c521ad4152b7",
     "url": "/dafer154/static/css/main.770a2fae.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dafer154/static/js/2.efdb6ec4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b23e081b63521c97c9e2",
-    "url": "/dafer154/static/js/main.e5b263ab.chunk.js"
+    "revision": "85b57545c521ad4152b7",
+    "url": "/dafer154/static/js/main.598f69a5.chunk.js"
   },
   {
     "revision": "68c185b050a60f8ed7af",

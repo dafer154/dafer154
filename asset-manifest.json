@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dafer154/static/css/main.770a2fae.chunk.css",
-    "main.js": "/dafer154/static/js/main.e5b263ab.chunk.js",
-    "main.js.map": "/dafer154/static/js/main.e5b263ab.chunk.js.map",
+    "main.js": "/dafer154/static/js/main.598f69a5.chunk.js",
+    "main.js.map": "/dafer154/static/js/main.598f69a5.chunk.js.map",
     "runtime-main.js": "/dafer154/static/js/runtime-main.4d3a4734.js",
     "runtime-main.js.map": "/dafer154/static/js/runtime-main.4d3a4734.js.map",
     "static/css/2.f524894f.chunk.css": "/dafer154/static/css/2.f524894f.chunk.css",
     "static/js/2.efdb6ec4.chunk.js": "/dafer154/static/js/2.efdb6ec4.chunk.js",
     "static/js/2.efdb6ec4.chunk.js.map": "/dafer154/static/js/2.efdb6ec4.chunk.js.map",
     "index.html": "/dafer154/index.html",
-    "precache-manifest.dac30c91f08f7cc5e9c768758daa3e64.js": "/dafer154/precache-manifest.dac30c91f08f7cc5e9c768758daa3e64.js",
+    "precache-manifest.90f503d5a75fdb015c7f349b9d69d9b9.js": "/dafer154/precache-manifest.90f503d5a75fdb015c7f349b9d69d9b9.js",
     "service-worker.js": "/dafer154/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/dafer154/static/css/2.f524894f.chunk.css.map",
     "static/css/main.770a2fae.chunk.css.map": "/dafer154/static/css/main.770a2fae.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.f524894f.chunk.css",
     "static/js/2.efdb6ec4.chunk.js",
     "static/css/main.770a2fae.chunk.css",
-    "static/js/main.e5b263ab.chunk.js"
+    "static/js/main.598f69a5.chunk.js"
   ]
 }
