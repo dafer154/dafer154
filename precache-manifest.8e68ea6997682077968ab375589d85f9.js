@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6df5fb94b9c2e3f2b26ae6d09acc86c",
+    "revision": "837ccdec57f118ebed115e7e209904ee",
     "url": "/dafer154/index.html"
   },
   {
-    "revision": "e9da46d5c60dfc0023b7",
+    "revision": "908de87b908771c55d6b",
     "url": "/dafer154/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "f55e64cbf8f79f39b8ea",
-    "url": "/dafer154/static/css/main.770a2fae.chunk.css"
+    "revision": "18ef75ec6531ad45c886",
+    "url": "/dafer154/static/css/main.9f38be70.chunk.css"
   },
   {
-    "revision": "e9da46d5c60dfc0023b7",
-    "url": "/dafer154/static/js/2.d171c6d7.chunk.js"
+    "revision": "908de87b908771c55d6b",
+    "url": "/dafer154/static/js/2.efdb6ec4.chunk.js"
   },
   {
     "revision": "d455b55662ec59e842e850740eeaf3d2",
-    "url": "/dafer154/static/js/2.d171c6d7.chunk.js.LICENSE.txt"
+    "url": "/dafer154/static/js/2.efdb6ec4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f55e64cbf8f79f39b8ea",
-    "url": "/dafer154/static/js/main.9c8f97d7.chunk.js"
+    "revision": "18ef75ec6531ad45c886",
+    "url": "/dafer154/static/js/main.92608f3d.chunk.js"
   },
   {
     "revision": "68c185b050a60f8ed7af",
     "url": "/dafer154/static/js/runtime-main.4d3a4734.js"
+  },
+  {
+    "revision": "02db4d9ec5e09f8a1e4e9ce91880a07d",
+    "url": "/dafer154/static/media/CV_David_Zuluaga.02db4d9e.pdf"
   },
   {
     "revision": "2ca364f702b7e35d2018cc036cc6bfd0",
