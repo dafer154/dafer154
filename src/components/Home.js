@@ -11,7 +11,7 @@ const Home = () => {
                 <section className="home bd-grid" id="home">
                     <div className="home__data">
                         <div style={{ width: "56%" }}>
-                            <h1 className="home__title">Hi,<br />I'am <span className="home__title-color">David Zuluaga</span><br /> Frontend Developer</h1>
+                            <h1 className="home__title">Hi,<br />I'm <span className="home__title-color">David Zuluaga</span><br /> Frontend Developer</h1>
                             <Link to={cv} target="_blank" download="CV_David_Zuluaga.pdf">
                                 <div href={cv} className="button"  target="_blank" download="CV_David_Zuluaga.pdf">DOWNLOAD MY CV</div>
                             </Link>
