@@ -1,8 +1,8 @@
 import React from 'react'
 import davidZ from '../assets/img/davidZ.JPG'
 import Fade from 'react-reveal/Fade';
-import { Link } from 'react-router-dom'
-import cv from '../assets/CV_David_Zuluaga.pdf'
+// import { Link } from 'react-router-dom'
+// import cv from '../assets/CV_David_Zuluaga.pdf'
 
 const Home = () => {
     return (
@@ -12,9 +12,12 @@ const Home = () => {
                     <div className="home__data">
                         <div style={{ width: "56%" }}>
                             <h1 className="home__title">Hi,<br />I'm <span className="home__title-color">David Zuluaga</span><br /> Frontend Developer</h1>
-                            <Link to={cv} target="_blank" download="CV_David_Zuluaga.pdf">
+                            {/* <Link to={cv} target="_blank" download="CV_David_Zuluaga.pdf">
                                 <div href={cv} className="button"  target="_blank" download="CV_David_Zuluaga.pdf">DOWNLOAD MY CV</div>
-                            </Link>
+                            </Link> */}
+
+                            <div className="button">DOWNLOAD MY CV</div>
+
                         </div>
                         <div className="home__img" style={{ width: "30%", paddingTop: "8%" }} >
                             <img src={davidZ} alt="" className="image-custom" />
